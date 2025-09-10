@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.15",
+    "braces": "^3.0.3",
+    "detect-libc": "^2.0.3",
+    "enhanced-resolve": "^5.18.1",
+    "esbuild": "^0.25.1",
+    "fill-range": "^7.1.1",
+    "graceful-fs": "^4.2.11",
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.3",
+    "is-number": "^7.0.0",
+    "jiti": "^2.4.2",
+    "lightningcss": "^1.29.2",
+    "lightningcss-win32-x64-msvc": "^1.29.2",
+    "micromatch": "^4.0.8",
+    "mri": "^1.2.0",
+    "nanoid": "^3.3.11",
+    "node-addon-api": "^7.1.1",
+    "picocolors": "^1.1.1",
+    "picomatch": "^2.3.1",
+    "rollup": "^4.37.0",
+    "source-map-js": "^1.2.1",
+    "tapable": "^2.2.1",
+    "to-regex-range": "^5.0.1",
+    "vite": "^6.2.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "prettier": "3.6.2",
+    "tailwindcss": "^4.0.15"
+  },
+  "name": "projectmanagement",
+  "version": "1.0.0",
+  "description": "\"my first project management application\"",
+  "main": "node.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node node.js",
+    "start": "node node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthik5033/Fullstack-Web-Development.git"
+  },
+  "keywords": [
+    "first",
+    "majpr",
+    "project",
+    "backend",
+    "API",
+    "creation"
+  ],
+  "author": "Karthik K P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthik5033/Fullstack-Web-Development/issues"
+  },
+  "homepage": "https://github.com/karthik5033/Fullstack-Web-Development#readme"
+}
