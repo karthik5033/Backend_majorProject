@@ -1,6 +1,7 @@
 {
   "name": "projectmanagement",
   "version": "1.0.0",
+  "type": "module",
   "description": "new project",
   "main": "node.js",
   "dependencies": {
