@@ -26,6 +26,7 @@
     "esbuild": "^0.25.9",
     "escalade": "^3.2.0",
     "express": "^5.1.0",
+    "express-validator": "^7.2.1",
     "fill-range": "^7.1.1",
     "fraction.js": "^4.3.7",
     "glob-parent": "^5.1.2",

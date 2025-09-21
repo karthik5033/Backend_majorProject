@@ -1,5 +1,7 @@
 import express from "express";
 import cors from "cors";
+
+
 let app = express();
 // basic configuration.
 app.use(express.json({ limit: "16kb" }));
@@ -15,6 +17,8 @@ app.use(
 // import the routes
 import healthCheckRouter from "./routes/healthcheck.routes.js";
 app.use("/api/v1/healthcheck", healthCheckRouter);
+import authRouter from "./routes/auth.routes.js";
+app.use("/api/v1/auth", authRouter);
 
 app.get("/", (req, res) => {
   res.send("welcome to basecampy");
