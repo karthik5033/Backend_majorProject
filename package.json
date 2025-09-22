@@ -17,6 +17,7 @@
     "chokidar": "^3.6.0",
     "chownr": "^3.0.0",
     "concat-map": "^0.0.1",
+    "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "debug": "^4.4.1",
     "detect-libc": "^2.0.4",
